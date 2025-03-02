@@ -45,7 +45,7 @@ streamlit run main.py
 
 ## Preview
 
-## Contribution
+### Contribution
 
 Want to improve this project? Contributions are welcome! Fork this repository and submit a pull request.
 
