@@ -50,6 +50,9 @@ pip install streamlit
 ## 📷 Screenshot
 ![image](https://github.com/user-attachments/assets/2f46ce75-1213-4322-beb6-d9e45e15a604)
 
+## Check on Streamlit
+https://pythonprojects-ypmbbztyqgaasmylr2nbuf.streamlit.app/
+
 ##  Usage
 1. Open the app using Streamlit.
 2. Select the password length using the slider.
