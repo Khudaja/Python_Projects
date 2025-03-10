@@ -1,7 +1,7 @@
 # Password Generator
 
 ## ⭐ Overview
-This is a simple password generator built using **Streamlit** and **Python**. It allows users to generate strong passwords based on their preferences, such as including digits and special characters.
+This is a simple password generator built using **Streamlit**, **UV** and **Python**. It allows users to generate strong passwords based on their preferences, such as including digits and special characters.
 
 ##  Features
 - Generate random passwords with customizable length (4-20 characters).
