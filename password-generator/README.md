@@ -3,13 +3,13 @@
 ## ⭐ Overview
 This is a simple password generator built using **Streamlit** and **Python**. It allows users to generate strong passwords based on their preferences, such as including digits and special characters.
 
-## 🚀 Features
+##  Features
 - Generate random passwords with customizable length (4-20 characters).
 - Option to include digits (0-9).
 - Option to include special characters (!, %, $, etc.).
 - User-friendly Streamlit interface.
 
-## 📌 Installation
+##  Installation
 To run this project locally, follow these steps:
 
 1. **Clone the repository:**
@@ -38,7 +38,7 @@ To run this project locally, follow these steps:
    streamlit run password_generator.py
    ```
 
-## 🛠️ Dependencies
+## 🛠 Dependencies
 - Python 3.x
 - Streamlit
 
@@ -48,20 +48,17 @@ pip install streamlit
 ```
 
 ## 📷 Screenshot
-![Password Generator UI](screenshot.png)
+![image](https://github.com/user-attachments/assets/2f46ce75-1213-4322-beb6-d9e45e15a604)
 
-## 💡 Usage
+##  Usage
 1. Open the app using Streamlit.
 2. Select the password length using the slider.
 3. Check the options to include digits and special characters.
 4. Click on the "Generate Password" button.
 5. Copy and use your generated password securely!
 
-## 🔗 Contributing
+##  Contributing
 Feel free to contribute by submitting issues or pull requests.
-
-## 📜 License
-This project is licensed under the **MIT License**.
 
 ## ❤️ Built with Love
 By [Khudaja](https://github.com/Khudaja)
