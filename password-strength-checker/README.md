@@ -1,14 +1,14 @@
-# Password Strength Checker
+# 🔏Password Strength Checker
 
-## 🔏 Overview
+##  Overview
 This is a **Password Strength Checker** built using **Streamlit**, **UV** and **Python**. It evaluates password strength based on length, use of uppercase and lowercase letters, numbers, and special characters, providing feedback for improvement.
 
-## 🚀 Features
+##  Features
 - Checks password strength based on four security criteria.
 - Provides suggestions to improve weak passwords.
 - Interactive and user-friendly **Streamlit** interface.
 
-## 📌 Installation
+##  Installation
 To run this project locally, follow these steps:
 
 1. **Clone the repository:**
@@ -37,7 +37,7 @@ To run this project locally, follow these steps:
    streamlit run password_checker.py
    ```
 
-## 🛠️ Dependencies
+##  Dependencies
 - Python 3.x
 - Streamlit
 
@@ -49,14 +49,16 @@ pip install streamlit
 ## 📷 Screenshot
 ![image](https://github.com/user-attachments/assets/eeb931dc-2a8b-43b9-bc55-367b0da4a488)
 
+## 📍Check it on Streamlit
+https://pythonprojects-gmsucjajphpkjucsc5rrhw.streamlit.app/
 
-## 💡 Usage
+##  Usage
 1. Open the app using Streamlit.
 2. Enter your password in the text box.
 3. Click the **Check Password Strength** button.
 4. See your password strength rating and improvement suggestions.
 
-## 🔗 Contributing
+##  Contributing
 Feel free to contribute by submitting issues or pull requests.
 
 ## ❤️ Built with Love
