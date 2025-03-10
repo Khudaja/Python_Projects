@@ -43,7 +43,11 @@ streamlit run main.py
 
 ▫ Click the Convert button to view the result instantly
 
-## Preview
+## Screenshot of the Project
+![image](https://github.com/user-attachments/assets/ad3da371-9c7c-4763-bf3a-6e0a8c86f9d8)
+
+## Check it on Streamlit
+https://pythonprojects-bq85mdgqhp8abh7zgj2gvb.streamlit.app/
 
 ### Contribution
 
