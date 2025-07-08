@@ -3,7 +3,6 @@ import json
 import os
 import pandas as pd
 from io import BytesIO
-from fpdf import FPDF
 
 # Load and save library data
 def load_library():
