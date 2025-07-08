@@ -69,6 +69,6 @@ Your data is stored locally in library.json. No cloud or external storage is use
 This project is licensed under the MIT License.
 
 ## 🔗 Links
-GitHub Repo: [(https://github.com/Khudaja/Python_Projects/tree/main/personal-library-manager)]
+GitHub Repo:  (https://github.com/Khudaja/Python_Projects/tree/main/personal-library-manager)
 
-Live App: [Your Streamlit Share Link]](https://pythonprojects-khudaja.streamlit.app/)
+Live App: (https://pythonprojects-khudaja.streamlit.app/)
