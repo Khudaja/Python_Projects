@@ -12,6 +12,9 @@ A user-friendly Streamlit web app to **encrypt**, **store**, and **retrieve** se
 
 ---
 
+### License
+This project is licensed under the MIT License.
+
 ## 🚀 Getting Started
 
 ### 🔧 Prerequisites
