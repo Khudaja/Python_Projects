@@ -61,5 +61,6 @@ Download your full library as a CSV file
 
 (Optional) Extend support for PDF or Excel in future versions
 
-##🛡️ Data Note
+## 🛡️ Data Note
+
 Your data is stored locally in library.json. No cloud or external storage is used.
