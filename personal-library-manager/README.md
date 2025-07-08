@@ -64,3 +64,11 @@ Download your full library as a CSV file
 ## 🛡️ Data Note
 
 Your data is stored locally in library.json. No cloud or external storage is used.
+
+## 📄 License
+This project is licensed under the MIT License.
+
+## 🔗 Links
+GitHub Repo: [(https://github.com/Khudaja/Python_Projects/tree/main/personal-library-manager)]
+
+Live App: [Your Streamlit Share Link]
